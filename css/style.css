@@ -1,6 +1,46 @@
-.bounceIn {
-  -webkit-animation-duration: 0.75s;
-  animation-duration: 0.75s;
-  -webkit-animation-name: bounceIn;
-  animation-name: bounceIn;
+body {
+  padding-top: 200px;
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-weight: 100;
+}
+
+h1 {
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-weight: 100;
+}
+p {
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-weight: 100;
+}
+
+.smallnum {
+  font-size: 15px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.notflashy {
+  color: grey;
+  font-style: italic;
+}
+
+.best {
+  color: #E83A06;
+  font-style: italic;
+  font-weight: bold;
+}
+strong {
+  font-weight: bolder;
+}
+
+.ampersand {
+  font-size: 70px;
+  font-weight: lighter;
+  font-family: "helvetica narrow", sans-serif;
 }
